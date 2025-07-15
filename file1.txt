@@ -2,3 +2,4 @@ file1.txt
 test1.txt
 678
 dddd456
+test case 2
